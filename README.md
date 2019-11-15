@@ -1,5 +1,5 @@
-# educational-sites
-List of educational sites that should be available for free in Ethiopia
+# Educational Sites List
+### List of educational sites that should be available for free in Ethiopia
 
 * google.com
 * wikipedia.org
@@ -19,4 +19,4 @@ List of educational sites that should be available for free in Ethiopia
 * codecademy.com
 
 
-Please let us know other sites that should be added to the list.
+Please let us know of other sites that should be added to the list.
