@@ -1,21 +1,27 @@
 # Educational Sites List
 ### List of educational sites that should be available for free in Ethiopia
 
-* wikipedia.org
-* khanacademy.org
-* github.com
-* code.org
-* learner.org
-* k12videos.mit.edu
-* scratch.mit.edu
-* gutenberg.org
-* duolingo.com
-* kg12.org
-* stackexchange.com and websites under it
-* coursera.org
-* aaamath.com
-* maths.org
-* codecademy.com
-
+* https://wikipedia.org
+* https://khanacademy.org
+* https://github.com
+* https://code.org
+* https://learner.org
+* https://k12videos.mit.edu
+* https://scratch.mit.edu
+* https://gutenberg.org
+* https://duolingo.com
+* https://kg12.org
+* https://stackexchange.com and websites under it
+* https://coursera.org
+* https://aaamath.com
+* https://maths.org
+* https://codecademy.com
+* https://openculture.com
+* https://childrenslibrary.org
+* https://oercommons.org
+* https://neok12.com
+* https://edx.org
+* https://ted.com
+* https://ed.ted.com
 
 Please let us know of other sites that should be added to the list.
