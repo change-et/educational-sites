@@ -23,5 +23,10 @@
 * https://edx.org
 * https://ted.com
 * https://ed.ted.com
+* https://www.freecodecamp.org/
+* https://online-learning.harvard.edu/catalog/free
+
 
 Please let us know of other sites that should be added to the list.
+
+
